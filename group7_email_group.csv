@@ -1,0 +1,67 @@
+group_id,group_name,group_desc,mapping_id
+4,"NA - Yahoo","North America Yahoo",@yahoo
+10,"Final Testing","Real Mail ids",@gmail
+20,"NA - iCloud"," Apple iCloud",@icloud
+24,"NA - Live",live,@live
+25,"NA - AT&T",AT&T,@att
+27,"Sayan - Gmail",Gmail,@gmail
+28,Warm-up,"Warm up ids",mixed
+29,"KKD - Gmail",KKD,@gmail
+30,"Warm-Up - Yahoo","Yahoo warm up",@yahoo
+31,"Single test","single id",@yahoo
+32,Affiliate,"Affiliate ids",mixed
+33,Comcast,Comcast,@comcast
+34,"Comcast Jango_1","Comcast Priyam",@comcast
+37,"Yahoo Priyam","Yahoo Priyam",@yahoo
+38,AM_AtWave,Afiliate,@atwave
+39,Pureads_AM,"PureAds AM",@pureadsdigital
+40,"Yahoo Priyam Clean","Clean yahoo data",@yahoo
+42,"Yahoo Priyam Latest","Uncleaned Yahoo data",@yahoo
+44,"Comcast Priyam_1","Comcast Priyam",@comcast
+45,Sayan_Com,Sayan_Com_Test,@comcast
+46,warm_gmail_1,"Temp acehardware Warmup",@gmail
+47,AM_Atwave_new,Affiliate,@atwave
+48,"Email Spam Tester-1","Check Spam",@srv1.mail-tester
+51,Warm-up-AOL_debjit,"New Warm-up-AOL_debjit",@aol
+52,Warm-up-Hotmail_debjit,"New Warm-up-Hotmail_debjit",@hotmail
+53,Deb_Warm_Yahoo_1,"Warm up yahoo 1",@yahoo
+65,com,test,@comcast
+66,"Comcast Priyam_2","clean comcast priyam",@comcast
+67,"KKD Yahoo","KKD Yahoo",@yahoo
+68,"Comcast Priyam_3","clean comcast priyam",@comcast
+69,"Comcast Priyam_4","clean comcast priyam ",@comcast
+70,"Comcast Priyam_5","cleaned comcast priyam",@comcast
+72,"Active Emails","Most Active Users",mixed
+73,warm_frnds,"Warm up friends",@gmail
+74,New_Gmail,"Deb Gmail",@gmail
+75,Total_warm,"All warm up ids",mixed
+76,Mixed_warm,"Two ids of diff ISP",mixed
+77,Mixed_warm_2,"Mixed warm up",mixed
+81,New_aol,Aol,@aol
+83,Test_Gmail,Gmail,@gmail
+84,Warm_up_AOL_1,Warm_up_AOL_SB,@aol
+85,"Unsubscribed Emails","Unsubscribed Emails",mixed
+86,"Suppressed Emails","Suppressed Emails",mixed
+87,CR_Clickers,Cleverreach_Jango_clickers,@yahoo
+88,warm_gmail_3,"Total Gmail IDs",@gmail
+89,warm_gmail_2,"Warm up Gmail",@gmail
+90,"Comcast Jango_2","July Send",@comcast
+91,"Comcast Jango Clickers","Jango Clickers July",@comcast
+92,"Comcast Jango_3",Comcast_Jango-July_2,@comcast
+93,SES-WarmUp,"Warm up mixed",mixed
+94,"Comcast Priyam_6","clean comcast priyam",@comcast
+96,Test_Swagnik,Testing,@gmail
+97,"Comcast Priyam Test",Testing,@comcast
+98,"Comcast VIP Clicker","New Comcast from VIP",@comcast
+100,"Comcast VIP Cleaned_1","Cleaned Comcast",@comcast
+101,"Comcast VIP Cleaned_2","Cleaned comcast",@comcast
+102,AM_Instar,"Instar Affiliate",mixed
+103,"Comcast Priyam New","New collected Comcast Priyam",@comcast
+104,"Comcast Priyam New_2","New collected Comcast Priyam",@comcast
+105,"Mrinmay - Gmail",Gmail,@gmail
+106,warm_gmail_souvik,"Souvik warmup",@gmail
+107,"Testing - Yahoo","Yahoo inbox testing",@yahoo
+108,Warmup-Proton,"Proton warm up",mixed
+109,Warm_up_AOL_Mrinmay,Warm_up_AOL_MRINMAY,@aol
+110,Warmup-FastMail,"FastMail warm up",mixed
+111,Warmup-HeyMail,"HeyMail warm up",mixed
